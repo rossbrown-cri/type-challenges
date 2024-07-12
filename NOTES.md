@@ -1,5 +1,6 @@
 # Challenges
 - [x] [00002-medium-return-type](./questions/00002-medium-return-type)
+  - Intro to `infer`
 - [x] [00003-medium-omit](./questions/00003-medium-omit)
 - [x] [00004-easy-pick](./questions/00004-easy-pick)
 - [ ] [00005-extreme-readonly-keys](./questions/00005-extreme-readonly-keys)
@@ -17,7 +18,7 @@
 - [ ] [00017-hard-currying-1](./questions/00017-hard-currying-1)
 - [x] [00018-easy-tuple-length](./questions/00018-easy-tuple-length)
 - [ ] [00020-medium-promise-all](./questions/00020-medium-promise-all)
-- [ ] [00043-easy-exclude](./questions/00043-easy-exclude)
+- [x] [00043-easy-exclude](./questions/00043-easy-exclude)
 - [ ] [00055-hard-union-to-intersection](./questions/00055-hard-union-to-intersection)
 - [ ] [00057-hard-get-required](./questions/00057-hard-get-required)
 - [ ] [00059-hard-get-optional](./questions/00059-hard-get-optional)
@@ -26,8 +27,9 @@
 - [ ] [00090-hard-optional-keys](./questions/00090-hard-optional-keys)
 - [ ] [00106-medium-trimleft](./questions/00106-medium-trimleft)
 - [ ] [00108-medium-trim](./questions/00108-medium-trim)
-- [ ] [00110-medium-capitalize](./questions/00110-medium-capitalize)
-- [ ] [00112-hard-capitalizewords](./questions/00112-hard-capitalizewords)
+- [x] [00110-medium-capitalize](./questions/00110-medium-capitalize)
+- [x] [00112-hard-capitalizewords](./questions/00112-hard-capitalizewords)
+  - Reaching limit of nesting with one method
 - [ ] [00114-hard-camelcase](./questions/00114-hard-camelcase)
 - [ ] [00116-medium-replace](./questions/00116-medium-replace)
 - [ ] [00119-medium-replaceall](./questions/00119-medium-replaceall)
@@ -99,7 +101,7 @@
 - [ ] [03192-medium-reverse](./questions/03192-medium-reverse)
 - [ ] [03196-medium-flip-arguments](./questions/03196-medium-flip-arguments)
 - [ ] [03243-medium-flattendepth](./questions/03243-medium-flattendepth)
-- [ ] [03312-easy-parameters](./questions/03312-easy-parameters)
+- [x] [03312-easy-parameters](./questions/03312-easy-parameters)
 - [ ] [03326-medium-bem-style-string](./questions/03326-medium-bem-style-string)
 - [ ] [03376-medium-inordertraversal](./questions/03376-medium-inordertraversal)
 - [ ] [04037-hard-ispalindrome](./questions/04037-hard-ispalindrome)

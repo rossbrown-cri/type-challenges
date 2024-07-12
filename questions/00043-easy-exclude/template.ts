@@ -1,1 +1,3 @@
-type MyExclude<T, U extends T> = {[key in keyof T]: U extends key ? never : T[key]}
+type MyExclude<T, U> = T extends U ? never : T;
+
+type Result = MyExclude<'a' | 'b' | 'c', 'a'>
