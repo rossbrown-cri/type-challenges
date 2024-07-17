@@ -29,7 +29,7 @@
 - [ ] [00108-medium-trim](./questions/00108-medium-trim)
 - [x] [00110-medium-capitalize](./questions/00110-medium-capitalize)
 - [x] [00112-hard-capitalizewords](./questions/00112-hard-capitalizewords)
-  - Reaching limit of nesting with one method
+  - Tail recursion example
 - [ ] [00114-hard-camelcase](./questions/00114-hard-camelcase)
 - [ ] [00116-medium-replace](./questions/00116-medium-replace)
 - [ ] [00119-medium-replaceall](./questions/00119-medium-replaceall)
@@ -162,4 +162,5 @@
 - [ ] [27932-medium-mergeall](./questions/27932-medium-mergeall)
 - [ ] [27958-medium-checkrepeatedtuple](./questions/27958-medium-checkrepeatedtuple)
 - [ ] [28143-hard-optionalundefined](./questions/28143-hard-optionalundefined)
-- [ ] [28333-medium-public-type](./questions/28333-medium-public-type)
+- [x] [28333-medium-public-type](./questions/28333-medium-public-type)
+  - Needed a little help with getting the readonly to work
