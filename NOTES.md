@@ -143,7 +143,7 @@
 - [ ] [09989-medium-tong-ji-shu-zu-zhong-de-yuan-su-ge-shu](./questions/09989-medium-tong-ji-shu-zu-zhong-de-yuan-su-ge-shu/README.md)
 - [ ] [10969-medium-integer](./questions/10969-medium-integer/README.md)
 - [ ] [13580-hard-replace-union](./questions/13580-hard-replace-union/README.md)
-- [ ] [14080-hard-fizzbuzz](./questions/14080-hard-fizzbuzz/README.md)
+- [x] [14080-hard-fizzbuzz](./questions/14080-hard-fizzbuzz/README.md)
 - [ ] [14188-hard-run-length-encoding](./questions/14188-hard-run-length-encoding/README.md)
 - [ ] [15260-hard-tree-path-array](./questions/15260-hard-tree-path-array/README.md)
 - [ ] [16259-medium-to-primitive](./questions/16259-medium-to-primitive/README.md)
