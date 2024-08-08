@@ -68,7 +68,8 @@
 - [ ] [00741-extreme-sort](./questions/00741-extreme-sort/README.md)
 - [ ] [00847-hard-string-join](./questions/00847-hard-string-join/README.md)
 - [ ] [00869-extreme-distributeunions](./questions/00869-extreme-distributeunions/README.md)
-- [ ] [00898-easy-includes](./questions/00898-easy-includes/README.md)
+- [x] [00898-easy-includes](./questions/00898-easy-includes/README.md)
+  - Weird equalness
 - [ ] [00925-extreme-assert-array-index](./questions/00925-extreme-assert-array-index/README.md)
 - [ ] [00949-medium-anyof](./questions/00949-medium-anyof/README.md)
 - [ ] [00956-hard-deeppick](./questions/00956-hard-deeppick/README.md)
