@@ -13,7 +13,7 @@
 - [ ] [00012-medium-chainable-options](./questions/00012-medium-chainable-options/README.md)
 - [x] [00013-warm-hello-world](./questions/00013-warm-hello-world/README.md)
 - [x] [00014-easy-first](./questions/00014-easy-first/README.md)
-- [ ] [00015-medium-last](./questions/00015-medium-last/README.md)
+- [x] [00015-medium-last](./questions/00015-medium-last/README.md)
 - [x] [00016-medium-pop](./questions/00016-medium-pop/README.md)
 - [ ] [00017-hard-currying-1](./questions/00017-hard-currying-1/README.md)
 - [x] [00018-easy-tuple-length](./questions/00018-easy-tuple-length/README.md)
